@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenantInspectAdmin.API", "TenantInspectAdmin.API\TenantInspectAdmin.API.csproj", "{3CD1DC03-3B7E-41B5-902F-8D1E85885FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenantInspectAdmin.Common", "TenantInspectAdmin.Common\TenantInspectAdmin.Common.csproj", "{3EA8D036-242C-4A72-85BF-CEBCF1466109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenantInspectAdmin.DAL", "TenantInspectAdmin.DAL\TenantInspectAdmin.DAL.csproj", "{770F0D08-FBE6-4081-A431-7686BCB0A306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenantInspectAdmin.Helper", "TenantInspectAdmin.Helper\TenantInspectAdmin.Helper.csproj", "{0DCBB449-9388-4F87-8B5A-4C2C088B01A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenantInspectAdmin.Domain", "TenantInspectAdmin.Domain\TenantInspectAdmin.Domain.csproj", "{54FB8758-AC91-4410-8159-D2B724964A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenantInspectAdmin.Service", "TenantInspectAdmin.Service\TenantInspectAdmin.Service.csproj", "{73709CD3-2986-4C06-8CF8-27CD2479344E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD1DC03-3B7E-41B5-902F-8D1E85885FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD1DC03-3B7E-41B5-902F-8D1E85885FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD1DC03-3B7E-41B5-902F-8D1E85885FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD1DC03-3B7E-41B5-902F-8D1E85885FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA8D036-242C-4A72-85BF-CEBCF1466109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA8D036-242C-4A72-85BF-CEBCF1466109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA8D036-242C-4A72-85BF-CEBCF1466109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA8D036-242C-4A72-85BF-CEBCF1466109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770F0D08-FBE6-4081-A431-7686BCB0A306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770F0D08-FBE6-4081-A431-7686BCB0A306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770F0D08-FBE6-4081-A431-7686BCB0A306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770F0D08-FBE6-4081-A431-7686BCB0A306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCBB449-9388-4F87-8B5A-4C2C088B01A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCBB449-9388-4F87-8B5A-4C2C088B01A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCBB449-9388-4F87-8B5A-4C2C088B01A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCBB449-9388-4F87-8B5A-4C2C088B01A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54FB8758-AC91-4410-8159-D2B724964A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FB8758-AC91-4410-8159-D2B724964A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FB8758-AC91-4410-8159-D2B724964A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FB8758-AC91-4410-8159-D2B724964A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73709CD3-2986-4C06-8CF8-27CD2479344E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73709CD3-2986-4C06-8CF8-27CD2479344E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73709CD3-2986-4C06-8CF8-27CD2479344E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73709CD3-2986-4C06-8CF8-27CD2479344E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
